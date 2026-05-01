@@ -13,7 +13,7 @@ These are a set of programs for my research work, called “Low-Complexity Belie
 
 
 
-## Contact & Feedback:
+# Contact & Feedback:
 - These algorithms might be confusing. Please read the paper carefully, and if you still do not understand it, feel free to contact me via email address ZhongjunYang at ieee dot org
 
 - I will also share the whole C++ codes soon, once my paper is accepted. 
